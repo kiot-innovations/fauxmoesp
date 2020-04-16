@@ -12,7 +12,7 @@
     "frameworks": "arduino",
     "platforms": ["espressif8266", "espressif8266_stage"],
     "dependencies": [
-        { "name": "ESPAsyncTCP" }
+        
     ],
     "authors": {
         "name": "Xose Perez",
